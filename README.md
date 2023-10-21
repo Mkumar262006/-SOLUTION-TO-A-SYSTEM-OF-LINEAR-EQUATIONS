@@ -27,7 +27,8 @@ print(result)
 ```
 
 ## Output:
-![Output](./lineqn.png)
+![Output](./lineqn-4.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
